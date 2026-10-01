@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm UMAR 👋
+A detail-oriented Software Engineer student specializing in full-stack web development. I focus on building scalable web applications using TypeScript, React, and Node.js.
 
-<!--
-**umar-devspace/umar-devspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, Python, HTML/CSS
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend & DB:** Node.js, Express.js, MongoDB, SQL
+- **DevOps & Tools:** Git, GitHub, Postman
 
-Here are some ideas to get you started:
+## 🚀 Education
+- **Higher National Diploma (HND) in ICT** – Sri Lanka (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Feel free to explore my repositories to see what I am building!
